@@ -12,7 +12,8 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&langs_count=8)](https://github.com/andres-condezo/github-readme-stats)
+
 
 <hr>
 <br><br>
@@ -21,4 +22,3 @@
 
 <hr>
 <br><br>
-[![Andres' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andres-condezo)](https://github.com/andres-condezo/github-readme-stats)
