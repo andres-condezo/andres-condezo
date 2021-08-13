@@ -11,13 +11,14 @@
 <hr>
 <br>
 
-[![Top Langs][align: "center"](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&layout=compact&langs_count=12&theme=graywhite)](https://github.com/andres-condezo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&layout=compact&langs_count=12&theme=graywhite)](https://github.com/andres-condezo/github-readme-stats)
 
 <br>
 <hr>
 <br>
-
+<center>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=default)](https://github.com/andres-condezo/github-readme-stats)
+</center>
 
 <br>
 <hr>
