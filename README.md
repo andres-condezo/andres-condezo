@@ -16,13 +16,14 @@
 <br>
 <hr>
 <br>
+
 || <!-- empty table header -->
 |:--:| <!-- table header/body separator with center formatting -->
-| 
+| text |
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=default)](https://github.com/andres-condezo/github-readme-stats)
 
-|
+
 
 <br>
 <hr>
