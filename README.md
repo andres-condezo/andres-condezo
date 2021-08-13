@@ -7,15 +7,18 @@
   - Twitter: https://twitter.com/andres_condezo
   - Medium: https://ra-condezomonge.medium.com
 
+<br>
 <hr>
-<br/><br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&langs_count=8&theme=synthwave)](https://github.com/andres-condezo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&langs_count=8&theme=slateorange)](https://github.com/andres-condezo/github-readme-stats)
 
+<br>
 <hr>
-<br><br>
+<br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=synthwave)](https://github.com/andres-condezo/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=slateorange)](https://github.com/andres-condezo/github-readme-stats)
 
+<br>
 <hr>
-<br><br>
+<br>
