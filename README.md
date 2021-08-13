@@ -11,9 +11,7 @@
 <hr>
 <br>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&layout=compact&langs_count=12&theme=graywhite)](https://github.com/andres-condezo/github-readme-stats)
-</div>
+[align: "center"][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-condezo&layout=compact&langs_count=12&theme=graywhite)](https://github.com/andres-condezo/github-readme-stats)
 
 <br>
 <hr>
