@@ -16,9 +16,9 @@
 <br>
 <hr>
 <br>
-<center>
+->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=default)](https://github.com/andres-condezo/github-readme-stats)
-</center>
+<-
 
 <br>
 <hr>
