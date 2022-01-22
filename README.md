@@ -1,7 +1,6 @@
 ### Hi there my name is Andres, welcome to my repos! 👋
 
 <hr>
-<br>
 
 - 🌱 I’m currently learning React / Flask / Database.
 - 🎯 2022 goals: Learn React, Node, Next, MongoDB.
