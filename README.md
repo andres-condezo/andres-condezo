@@ -3,12 +3,11 @@
 <br>
 
 - 🌱 I’m currently learning React / Flask / Database.
-- 🎯 2021 goals: Learn React as much I can.
+- 🎯 2022 goals: Learn React, Node, Next, MongoDB.
 - 📫 How to reach me: 
+- - LinkedIn: https://www.linkedin.com/in/andres-condezo/
   - Twitter: https://twitter.com/andres_condezo
   - Medium: https://ra-condezomonge.medium.com
-
-<br>
 <hr>
 <br>
 <p align="center">
@@ -17,7 +16,5 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andres-condezo&show_icons=true&theme=default)" alt="andres" />
   </a>
 </p>
-
-<br>
 <hr>
 <br>
