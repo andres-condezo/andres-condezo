@@ -1,8 +1,6 @@
-### Hi there my name is Andres, welcome to my repos! 👋
+### Hi there I'm Andres 👋
 
-<hr>
-
-- 🌱 I’m currently learning React / Flask / Database.
+- 🌱 I'm currently learning React / Flask / Database.
 - 🎯 2022 goals: Learn React, Node, Next, MongoDB.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/andres-condezo/
