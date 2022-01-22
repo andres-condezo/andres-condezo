@@ -1,12 +1,15 @@
 ### Hi there my name is Andres, welcome to my repos! 👋
+
 <hr>
 <br>
+
 - 🌱 I’m currently learning React / Flask / Database.
 - 🎯 2022 goals: Learn React, Node, Next, MongoDB.
 - 📫 How to reach me: 
-- - LinkedIn: https://www.linkedin.com/in/andres-condezo/
+  - LinkedIn: https://www.linkedin.com/in/andres-condezo/
   - Twitter: https://twitter.com/andres_condezo
   - Medium: https://ra-condezomonge.medium.com
+  
 <hr>
 <br>
 <p align="center">
