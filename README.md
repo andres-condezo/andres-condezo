@@ -1,12 +1,13 @@
 ### Hi there I'm Andres 👋
-
+<img src="https://engpm2msux48xm0.m.pipedream.net" alt="Most Active GitHub User Rank"> &nbsp;&nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=andres-condezo.visitor-badge" alt="visitors">
+ 
 - 🌱 I'm currently learning React / Flask / Database.
 - 🎯 2022 goals: Learn React, Node, Next, MongoDB.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/andres-condezo/
   - Twitter: https://twitter.com/andres_condezo
   - Medium: https://ra-condezomonge.medium.com
-  
+ 
 <hr>
 <br>
 <p align="center">
