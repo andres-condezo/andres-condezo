@@ -3,8 +3,8 @@
 
 <img src="https://github.com/andres-condezo/andres-condezo/blob/main/LinkedIn-Banner.png" alt="banner">
  
-- 🌱 I'm currently learning React / Flask / Database.
-- 🎯 2022 goals: Learn React, Node, Next, MongoDB.
+- 🌱 I'm currently learning Ruby / SQL.
+- 🎯 2022 goals: Learn Ruby on Rails, Node, Next, MongoDB.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/andres-condezo/
   - Twitter: https://twitter.com/andres_condezo
