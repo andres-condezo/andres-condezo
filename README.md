@@ -4,7 +4,7 @@
 <img src="https://github.com/andres-condezo/andres-condezo/blob/main/LinkedIn-Banner.png" alt="banner">
  
 - 🌱 I'm currently learning Next, MongoDB.
-- 🎯 2022 goals: Learn Node, MongoDB.
+- 🎯 2023 goals: Learn Node, MongoDB.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/andres-condezo/
   - Twitter: https://twitter.com/andres_condezo
